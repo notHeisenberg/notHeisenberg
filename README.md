@@ -25,15 +25,6 @@ I’m looking to collaborate on:
 - Innovative web applications
 - Projects involving new and emerging web technologies
 
-## Contact
-Feel free to reach out to me via:
-- 📫 Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-
-## Pronouns
-- 😄 Pronouns: He/Him
-
 ## Fun Fact
 - ⚡ Fun fact: I love exploring new coffee shops and trying out different types of coffee!
 
