@@ -1,4 +1,4 @@
-![Banner](https://github.com/notHeisenberg/notHeisenberg/raw/main/Github_banner.key)
+![Banner](https://i.ibb.co/NrCLPZn/Github-banner-001.jpg)
 # Hi, I’m @notHeisenberg 👋
 
 ## About Me
