@@ -5,7 +5,7 @@
 I am a junior web developer with a passion for creating dynamic and responsive web applications. My journey in web development began with curiosity and has evolved into a dedicated pursuit of mastering the craft.
 
 ## Languages and Tools:
-<p align="left" style="display: flex; flex-wrap: wrap;"> 
+# <p align="left" style="display: flex; flex-wrap: wrap;"> 
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
